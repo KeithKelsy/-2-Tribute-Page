@@ -94,3 +94,15 @@ li {
 .cita {
     font-style: italic;
 }
+
+footer {
+    margin: 3rem;
+}
+
+.redes {
+    display: flex;
+    justify-content: space-between;
+    max-width: 63px;
+    margin: 0 auto;
+    padding-top: 7px ;
+}
